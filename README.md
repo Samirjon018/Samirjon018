@@ -12,14 +12,14 @@
 - 🔭 I’m currently learning IT & Frontend Web Development.
 - 💻 Passionate about building interactive, clean, and responsive web applications.
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: **s4mir.15** *(Instagram)*
+- 📫 How to reach me: **s4mir.15** **instagram**
 
 ---
 
 ### 🌐 Live Projects & Portfolio
 - 🍕 **[Oqtepa Lavash](https://oqtepa-lavash-seven.vercel.app/)** — Oqtepa Lavash veb-saytining frontend nusxasi.
 - 📈 **[Apex Trading](https://apex-five-psi.vercel.app/)** — Interaktiv interfeysli va GSAP animasiyalariga ega trading platformasi.
-- 📁 **[First Portfolio](https://samirjon-protofoilio.vercel.app)** — Shaxsiy portfolio loyiham.
+- 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app/)** — Shaxsiy portfolio loyiham.
 
 ---
 
@@ -43,6 +43,4 @@
   <a href="https://instagram.com/s4mir.15" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirjon018&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
