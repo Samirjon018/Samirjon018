@@ -15,12 +15,12 @@
 - 📫 How to reach me: **s4mir.15** **instagram**
 
 ---
-
 ### 🌐 Live Projects & Portfolio
+- 📒 **[Daftar](https://daftar-teal.vercel.app/)** — Telegram va Instagram orqali sotadigan kichik sotuvchilar uchun CRM paneli (React): buyurtmalar, mijozlar, statistika, dark mode va CSV eksport.
+- ⚡ **[ZenithTech](https://your-zenithtech-link.vercel.app/)** — Elektronika va gadjetlar onlayn do'koni (frontend): qidiruv, filtr, savat va checkout.
 - 🍕 **[Oqtepa Lavash](https://oqtepa-lavash-seven.vercel.app/)** — Oqtepa Lavash veb-saytining frontend nusxasi.
 - 📈 **[Apex Trading](https://apex-five-psi.vercel.app/)** — Interaktiv interfeysli va GSAP animasiyalariga ega trading platformasi.
 - 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app/)** — Shaxsiy portfolio loyiham.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
