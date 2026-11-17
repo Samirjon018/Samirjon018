@@ -36,6 +36,15 @@
 </p>
 
 ---
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samirjon018&show_icons=true&theme=radical&hide_border=true&bg_color=181412" alt="Samirjon's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=Samirjon018&layout=compact&theme=radical&hide_border=true&bg_color=181412" alt="Top Languages" />
+</p>
 
 ### ⚡ Connect With Me
 <p align="left">
