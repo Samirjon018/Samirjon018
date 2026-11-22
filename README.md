@@ -16,7 +16,7 @@
 
 ---
 ### 🌐 Live Projects & Portfolio
-
+- 🚗 **[AvtoServise]** - Next.js va SQL asosida qurilga zamonaviy bronlar va navbatlarni belgilovchi avtoservise platformasi
 - 🍢 **[Tandir Restaurant](https://tandir-restaurant.vercel.app/)** — Next.js va Supabase asosida qurilgan zamonaviy restoran veb-ilovasi va onlayn buyurtma platformasi.
 - 📒 **[Daftar](https://daftar-teal.vercel.app/)** — Telegram va Instagram orqali sotadigan kichik sotuvchilar uchun CRM paneli (React): buyurtmalar, mijozlar, statistika, dark mode va CSV eksport.
 - ⚡ **[ZenithTech](https://zeinthtech.vercel.app/)** — Elektronika va gadjetlar onlayn do'koni (frontend): qidiruv, filtr, savat va checkout.
