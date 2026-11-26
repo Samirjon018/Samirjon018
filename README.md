@@ -44,6 +44,20 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML5" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS3" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/supabase.png" alt="Supabase" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" width="45" height="45" />
+</p>
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=36BCF7&width=435&height=35&lines=Frontend%3A+HTML%2C+CSS%2C+JS%2C+TS%2C+Next.js;Animations%3A+GSAP+%26+Interactive+UI;Backend+%26+DB%3A+Python%2C+FastAPI%2C+Supabase;Tools%3A+Git%2C+GitHub%2C+Vercel" alt="Tech Stack Typing" />
 </p>
 
