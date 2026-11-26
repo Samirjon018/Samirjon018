@@ -29,11 +29,11 @@
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=36BCF7&width=435&height=35&lines=Frontend%3A+HTML%2C+CSS%2C+JS%2C+TS%2C+Next.js;Animations%3A+GSAP+%26+Interactive+UI;Backend+%26+DB%3A+Python%2C+FastAPI%2C+Supabase;Tools%3A+Git%2C+GitHub%2C+Vercel" alt="Tech Stack Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=36BCF7&width=500&height=35&lines=Languages%3A+JS%2C+TS%2C+Python%2C+C%2B%2B%2C+Java%2C+SQL;Frontend%3A+HTML5%2C+CSS3%2C+Tailwind%2C+React%2C+Next.js;Backend+%26+DB%3A+Node.js%2C+FastAPI%2C+PostgreSQL%2C+Supabase;Tools%3A+Git%2C+GitHub%2C+VS+Code%2C+Vercel" alt="Tech Stack Typing" />
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,supabase,git,github,vercel" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,cpp,java,nodejs,fastapi,postgres,sqlite,supabase,git,github,vscode,vercel&perline=10" alt="Tech Stack Icons" />
 </p>
 
 ---
