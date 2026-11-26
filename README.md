@@ -16,6 +16,11 @@
 
 ---
 
+### 🎯 Current Focus & Goals
+- 🛠️ Building **AvtoServise** — smart booking & queue system with **Next.js & SQL**.
+- 🤖 Developing AI & automation tools using **Python, FastAPI & Telegram Bots**.
+- ✨ Mastering modern **UI motion, GSAP interactions & full-stack architecture**.
+
 ### 🌐 Live Projects & Portfolio
 - 🚗 **[AvtoServise](https://github.com/Samirjon018/AvtoServise)** — Next.js va SQL asosida qurilgan onlayn bron qilish, elektron navbat va mijozlarni boshqarishga mo'ljallangan zamonaviy avtoservis platformasi.
 - 🍢 **[Tandir Restaurant](https://tandir-restaurant.vercel.app/)** — Next.js va Supabase asosida qurilgan zamonaviy restoran veb-ilovasi va onlayn buyurtma platformasi.
