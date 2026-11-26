@@ -62,6 +62,13 @@
 
 ---
 
+### 📈 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Samirjon018&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=8A2BE2&currStreakLabel=36BCF7" height="165" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 💡 Engineering Mindset
 - **Clean & Maintainable Code:** Tushunarli struktura, qayta ishlatiladigan komponentlar va tartibli logika.
 - **User-First UI/UX:** Tez yuklanadigan, qulay va harakatlari silliq interfeyslar.
