@@ -9,20 +9,22 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently learning IT & Frontend Web Development.
+- 🔭 I’m currently studying IT & Full-Stack Web Development.
 - 💻 Passionate about building interactive, clean, and responsive web applications.
-- 💬 Ask me about **HTML, CSS, JavaScript** **Next.Js, Python**
-- 📫 How to reach me: **s4mir.15** **instagram**
+- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, Next.js & Python**
+- 📫 How to reach me: **[@s4mir.15](https://instagram.com/s4mir.15)** on Instagram
 
 ---
+
 ### 🌐 Live Projects & Portfolio
-- 🚗 **[AvtoServise]** - Next.js va SQL asosida qurilga zamonaviy bronlar va navbatlarni belgilovchi avtoservise platformasi
+- 🚗 **[AvtoServise](https://github.com/Samirjon018/AvtoServise)** — Next.js va SQL asosida qurilgan onlayn bron qilish, elektron navbat va mijozlarni boshqarishga mo'ljallangan zamonaviy avtoservis platformasi.
 - 🍢 **[Tandir Restaurant](https://tandir-restaurant.vercel.app/)** — Next.js va Supabase asosida qurilgan zamonaviy restoran veb-ilovasi va onlayn buyurtma platformasi.
 - 📒 **[Daftar](https://daftar-teal.vercel.app/)** — Telegram va Instagram orqali sotadigan kichik sotuvchilar uchun CRM paneli (React): buyurtmalar, mijozlar, statistika, dark mode va CSV eksport.
 - ⚡ **[ZenithTech](https://zeinthtech.vercel.app/)** — Elektronika va gadjetlar onlayn do'koni (frontend): qidiruv, filtr, savat va checkout.
 - 🍕 **[Oqtepa Lavash](https://oqtepa-lavash-seven.vercel.app/)** — Oqtepa Lavash veb-saytining frontend nusxasi.
-- 📈 **[Apex Trading](https://apex-five-psi.vercel.app/)** — Interaktiv interfeysli va GSAP animasiyalariga ega trading platformasi.
+- 📈 **[Apex Trading](https://apex-five-psi.vercel.app/)** — Interaktiv interfeysli va GSAP animatsiyalariga ega trading platformasi.
 - 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app/)** — Shaxsiy portfolio loyiham.
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -30,6 +32,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
