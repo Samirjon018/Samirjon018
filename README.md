@@ -62,6 +62,8 @@
 
 ---
 
+> *"Good software isn't just about code that works—it's about experiences people enjoy using."*
+
 ### ⚡ Connect With Me
 <p align="left">
   <a href="https://github.com/Samirjon018" target="_blank">
