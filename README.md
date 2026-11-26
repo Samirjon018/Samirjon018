@@ -26,8 +26,14 @@
 - 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app/)** — Shaxsiy portfolio loyiham.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=36BCF7&width=435&height=35&lines=Frontend%3A+HTML%2C+CSS%2C+JS%2C+TS%2C+Next.js;Animations%3A+GSAP+%26+Interactive+UI;Backend+%26+DB%3A+Python%2C+FastAPI%2C+Supabase;Tools%3A+Git%2C+GitHub%2C+Vercel" alt="Tech Stack Typing" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,supabase,git,github,vercel" alt="Tech Stack Icons" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -41,14 +47,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
-  ### 🛠️ Tech Stack & Tools
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=36BCF7&width=435&height=35&lines=Frontend%3A+HTML%2C+CSS%2C+JS%2C+TS%2C+Next.js;Animations%3A+GSAP+%26+Interactive+UI;Backend+%26+DB%3A+Python%2C+FastAPI%2C+Supabase;Tools%3A+Git%2C+GitHub%2C+Vercel" alt="Tech Stack Typing" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,supabase,git,github,vercel" alt="Tech Stack Icons" />
-</p>
+  
 
 </p>
 
