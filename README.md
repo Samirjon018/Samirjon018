@@ -1,8 +1,8 @@
 # Hi there, I'm Samirjon Abdurakhimov 👋 ![Profile views](https://komarev.com/ghpvc/?username=Samirjon018&color=blueviolet)
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Samirjon018">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Web+Developer;Passionate+about+UI%2FUX;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2200&pause=900&color=36BCF7&center=true&vCenter=true&width=600&height=40&lines=Turning+Ideas+into+Living+Web+Experiences;Crafting+Smooth+UI%2C+GSAP+Motion+%26+Real+Apps;Full-Stack+Builder%3A+Next.js%2C+Python+%26+SQL;Code+with+Purpose.+Design+with+Precision." alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,6 +27,20 @@
 
 ---
 
+### 🌐 Featured Projects & Portfolio
+
+| Loyiha | Tavsifi | Texnologiyalar | Havola |
+| :--- | :--- | :--- | :---: |
+| 🚗 **AvtoServise** | Onlayn bron qilish, elektron navbat va mijozlarni boshqarish avtoservis platformasi | `Next.js` `SQL` `TypeScript` | [GitHub](https://github.com/Samirjon018/AvtoServise) |
+| 🍢 **Tandir Restaurant** | Zamonaviy restoran veb-ilovasi va onlayn buyurtma berish tizimi | `Next.js` `Supabase` `Tailwind` | [Live Demo](https://tandir-restaurant.vercel.app/) |
+| 📒 **Daftar CRM** | Telegram va Instagram sotuvchilari uchun buyurtmalar, statistika va CSV eksport paneli | `React` `JavaScript` `CSS` | [Live Demo](https://daftar-teal.vercel.app/) |
+| 📈 **Apex Trading** | Interaktiv interfeys va silliq animatsiyalarga ega trading platformasi | `HTML/CSS` `JS` `GSAP` | [Live Demo](https://apex-five-psi.vercel.app/) |
+| ⚡ **ZenithTech** | Elektronika va gadjetlar onlayn do'koni: qidiruv, filtr, savat va checkout | `React` `JavaScript` `UI/UX` | [Live Demo](https://zeinthtech.vercel.app/) |
+| 🍕 **Oqtepa Lavash** | Mashhur fast-food tarmog'i veb-saytining zamonaviy frontend kloni | `HTML5` `CSS3` `JavaScript` | [Live Demo](https://oqtepa-lavash-seven.vercel.app/) |
+| 📁 **First Portfolio** | `Ctrl + K` buyruqlar paneli va GSAP animatsiyali shaxsiy portfolio sayti | `HTML/CSS` `JS` `GSAP` | [Live Demo](https://samirjon-protofoilo.vercel.app/) |
+
+---
+
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=36BCF7&width=500&height=35&lines=Languages%3A+JS%2C+TS%2C+Python%2C+C%2B%2B%2C+Java%2C+SQL;Frontend%3A+HTML5%2C+CSS3%2C+Tailwind%2C+React%2C+Next.js;Backend+%26+DB%3A+Node.js%2C+FastAPI%2C+PostgreSQL%2C+Supabase;Tools%3A+Git%2C+GitHub%2C+VS+Code%2C+Vercel" alt="Tech Stack Typing" />
@@ -34,6 +48,16 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,python,cpp,java,nodejs,fastapi,postgres,sqlite,supabase,git,github,vscode,vercel&perline=10" alt="Tech Stack Icons" />
+</p>
+
+---
+
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samirjon018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samirjon018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=C9D1D9" height="165" alt="Top Languages" />
 </p>
 
 ---
