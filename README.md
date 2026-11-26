@@ -65,6 +65,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,supabase,git,github,vercel" alt="Tech Stack Icons" />
 </p>
 
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,python,fastapi,supabase,git,github,vercel&perline=6" alt="Tech Stack" />
+  </a>
+</p>
+
 ---
 
 ### ⚡ Connect With Me
