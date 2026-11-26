@@ -21,28 +21,25 @@
 - 🤖 Developing AI & automation tools using **Python, FastAPI & Telegram Bots**.
 - ✨ Mastering modern **UI motion, GSAP interactions & full-stack architecture**.
 
-### 🌐 Live Projects & Portfolio
-- 🚗 **[AvtoServise](https://github.com/Samirjon018/AvtoServise)** — Next.js va SQL asosida qurilgan onlayn bron qilish, elektron navbat va mijozlarni boshqarishga mo'ljallangan zamonaviy avtoservis platformasi.
-- 🍢 **[Tandir Restaurant](https://tandir-restaurant.vercel.app/)** — Next.js va Supabase asosida qurilgan zamonaviy restoran veb-ilovasi va onlayn buyurtma platformasi.
-- 📒 **[Daftar](https://daftar-teal.vercel.app/)** — Telegram va Instagram orqali sotadigan kichik sotuvchilar uchun CRM paneli (React): buyurtmalar, mijozlar, statistika, dark mode va CSV eksport.
-- ⚡ **[ZenithTech](https://zeinthtech.vercel.app/)** — Elektronika va gadjetlar onlayn do'koni (frontend): qidiruv, filtr, savat va checkout.
-- 🍕 **[Oqtepa Lavash](https://oqtepa-lavash-seven.vercel.app/)** — Oqtepa Lavash veb-saytining frontend nusxasi.
-- 📈 **[Apex Trading](https://apex-five-psi.vercel.app/)** — Interaktiv interfeysli va GSAP animatsiyalariga ega trading platformasi.
-- 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app/)** — Shaxsiy portfolio loyiham.
-
 ---
+### 🌐 Featured Repositories
 
-### 🌐 Featured Projects & Portfolio
+<p align="center">
+  <a href="https://github.com/Samirjon018/AvtoServise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=AvtoServise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="AvtoServise" />
+  </a>
+  <a href="https://github.com/Samirjon018/tandir-restaurant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=tandir-restaurant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="Tandir Restaurant" />
+  </a>
+  <a href="https://github.com/Samirjon018/First-Protofoilo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=First-Protofoilo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="First Portfolio" />
+  </a>
+</p>
 
-| Loyiha | Tavsifi | Texnologiyalar | Havola |
-| :--- | :--- | :--- | :---: |
-| 🚗 **AvtoServise** | Onlayn bron qilish, elektron navbat va mijozlarni boshqarish avtoservis platformasi | `Next.js` `SQL` `TypeScript` | [GitHub](https://github.com/Samirjon018/AvtoServise) |
-| 🍢 **Tandir Restaurant** | Zamonaviy restoran veb-ilovasi va onlayn buyurtma berish tizimi | `Next.js` `Supabase` `Tailwind` | [Live Demo](https://tandir-restaurant.vercel.app/) |
-| 📒 **Daftar CRM** | Telegram va Instagram sotuvchilari uchun buyurtmalar, statistika va CSV eksport paneli | `React` `JavaScript` `CSS` | [Live Demo](https://daftar-teal.vercel.app/) |
-| 📈 **Apex Trading** | Interaktiv interfeys va silliq animatsiyalarga ega trading platformasi | `HTML/CSS` `JS` `GSAP` | [Live Demo](https://apex-five-psi.vercel.app/) |
-| ⚡ **ZenithTech** | Elektronika va gadjetlar onlayn do'koni: qidiruv, filtr, savat va checkout | `React` `JavaScript` `UI/UX` | [Live Demo](https://zeinthtech.vercel.app/) |
-| 🍕 **Oqtepa Lavash** | Mashhur fast-food tarmog'i veb-saytining zamonaviy frontend kloni | `HTML5` `CSS3` `JavaScript` | [Live Demo](https://oqtepa-lavash-seven.vercel.app/) |
-| 📁 **First Portfolio** | `Ctrl + K` buyruqlar paneli va GSAP animatsiyali shaxsiy portfolio sayti | `HTML/CSS` `JS` `GSAP` | [Live Demo](https://samirjon-protofoilo.vercel.app/) |
+
+
+
+
 
 ---
 
