@@ -54,7 +54,7 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue.js,nodejs,nest.js,nust.js,three.js,python,cpp,java,fastapi,postgres,sqlite,supabase,git,github,vscode,vercel,mangodb,&perline=10" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vue,nodejs,nestjs,nustjs,threejs,python,cpp,java,fastapi,postgres,sqlite,supabase,git,github,vscode,vercel,mangodb,&perline=10" alt="Tech Stack Icons" />
 </p>
 
 ---
