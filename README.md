@@ -33,64 +33,19 @@
 - 📁 **[First Portfolio](https://samirjon-protofoilo.vercel.app/)** — Shaxsiy portfolio loyiham.
 
 ---
-### 🌐 Featured Projects & Live Demos
+### 🌐 Featured Repositories
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚗 AvtoServise</h4>
-      <p>Onlayn bron qilish, elektron navbat va mijozlarni boshqarishga mo'ljallangan zamonaviy avtoservis platformasi.</p>
-      <p><code>Next.js</code> <code>SQL</code> <code>TypeScript</code></p>
-      <a href="https://github.com/Samirjon018/AvtoServise">
-        <img src="https://img.shields.io/badge/GitHub_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🍢 Tandir Restaurant</h4>
-      <p>Next.js va Supabase asosida qurilgan zamonaviy restoran veb-ilovasi va onlayn buyurtma tizimi.</p>
-      <p><code>Next.js</code> <code>Supabase</code> <code>Tailwind</code></p>
-      <a href="https://tandir-restaurant.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📒 Daftar CRM</h4>
-      <p>Telegram va Instagram sotuvchilari uchun buyurtmalar, mijozlar, statistika va CSV eksport paneli.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>CSS</code></p>
-      <a href="https://daftar-teal.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📈 Apex Trading</h4>
-      <p>Interaktiv interfeysli va silliq GSAP animatsiyalariga ega zamonaviy trading platformasi.</p>
-      <p><code>HTML/CSS</code> <code>JavaScript</code> <code>GSAP</code></p>
-      <a href="https://apex-five-psi.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ ZenithTech</h4>
-      <p>Elektronika va gadjetlar onlayn do'koni: qidiruv, filtr, savat va to'liq checkout jarayoni.</p>
-      <p><code>React</code> <code>JavaScript</code> <code>UI/UX</code></p>
-      <a href="https://zeinthtech.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📁 First Portfolio</h4>
-      <p><code>Ctrl + K</code> buyruqlar paneli va GSAP animatsiyali shaxsiy portfolio veb-sayti.</p>
-      <p><code>HTML/CSS</code> <code>JavaScript</code> <code>GSAP</code></p>
-      <a href="https://samirjon-protofoilo.vercel.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Samirjon018/AvtoServise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=AvtoServise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="AvtoServise" />
+  </a>
+  <a href="https://github.com/Samirjon018/tandir-restaurant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=tandir-restaurant&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="Tandir Restaurant" />
+  </a>
+  <a href="https://github.com/Samirjon018/First-Protofoilo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=First-Protofoilo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="First Portfolio" />
+  </a>
+</p>
 ---
 
 ### 🛠️ Tech Stack & Tools
