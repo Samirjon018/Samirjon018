@@ -46,7 +46,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Samirjon018&repo=First-Protofoilo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=8A2BE2" alt="First Portfolio" />
   </a>
 </p>
----
+
 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
