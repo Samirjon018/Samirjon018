@@ -62,6 +62,13 @@
 
 ---
 
+### 💡 Engineering Mindset
+- **Clean & Maintainable Code:** Tushunarli struktura, qayta ishlatiladigan komponentlar va tartibli logika.
+- **User-First UI/UX:** Tez yuklanadigan, qulay va harakatlari silliq interfeyslar.
+- **Continuous Iteration:** Har bir loyihani bosqichma-bosqich yaxshilab, real natijaga olib chiqish.
+
+---
+
 > *"Good software isn't just about code that works—it's about experiences people enjoy using."*
 
 ### ⚡ Connect With Me
