@@ -68,6 +68,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Samirjon018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+---
+
 ### 📈 Contribution Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Samirjon018&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=8A2BE2&currStreakLabel=36BCF7" height="165" alt="GitHub Streak" />
